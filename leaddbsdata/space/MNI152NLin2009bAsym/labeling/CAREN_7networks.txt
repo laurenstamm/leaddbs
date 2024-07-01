@@ -1,0 +1,7 @@
+1 Default-mode_Network
+2 Language_Network
+3 Dorsal_Sensorimotor_Network
+4 Ventral_Sensorimotor-Auditory_Network
+5 Salience_Network
+6 Executive_central_Network
+7 Visual_Network

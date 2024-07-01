@@ -1,0 +1,5 @@
+1 Salience_Network
+2 Executive_central_Network
+3 Sensorimotor_Network
+4 Default-mode_Network
+5 Visual_Network
